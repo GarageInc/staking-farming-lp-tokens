@@ -1,0 +1,20 @@
+node_modules
+
+dev-keys.json
+.env
+package-lock.json
+
+.DS_Store
+/.idea
+
+#Hardhat files
+artifacts
+deployments
+cache
+coverage
+typechain
+typechain-types
+.idea
+dist
+coverage.json
+artifacts/
