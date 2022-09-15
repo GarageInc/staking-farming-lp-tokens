@@ -1,4 +1,6 @@
-# Vaults
+# Contracts for staking/farming LP/erc20 tokens on EVM chains(Ethereum, BSC, Fantom, Avalanche, Polygon, etc)
+
+## Vaults
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
 
@@ -27,7 +29,7 @@ npx solhint 'contracts/**/*.sol'
 npx solhint 'contracts/**/*.sol' --fix
 ```
 
-# npm install --save-dev ts-node typescriptEtherscan verification
+## npm install --save-dev ts-node typescriptEtherscan verification
 
 To try out Etherscan verification, you first need to deploy a contract to an Ethereum network that's supported by Etherscan, such as Ropsten.
 
